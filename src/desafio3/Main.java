@@ -3,7 +3,7 @@ package desafio3;
 public class Main {
     public static void main(String[] args) {
 
-        // Não consegui manipular as datas...
+        // Não consegui manipular as datas como pedido no exercio :( ...
 
         Jogador neymar = new Jogador();
         neymar.setNome("Neymar");
